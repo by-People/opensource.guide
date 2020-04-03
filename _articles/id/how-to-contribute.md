@@ -193,7 +193,7 @@ Akhirnya, proyek open source menggunakan peralatan berikut untuk mengelola disku
 
 Setelah Anda paham bagaimana proyek open source bekerja, sekarang saatnya untuk menemukan sebuah proyek untuk berkontribusi!
 
-Jika Anda belum pernah berkontribusi ke open source sebelumnya, ambil saran dari presin Amerika Serikat John F. Kennedy, yang mengatakan demikian , _"(Jangan tanyakan apa yang bisa dilakukan negara kepada dirimu - tanyakan apa yang bisa engkau lakukan untuk negaramu) - Ask not what your country can do for you - ask what you can do for your country."_
+Jika Anda belum pernah berkontribusi ke open source sebelumnya, ambil saran dari presiden Amerika Serikat John F. Kennedy, yang mengatakan demikian , _"(Jangan tanyakan apa yang bisa dilakukan negara kepada dirimu - tanyakan apa yang bisa engkau lakukan untuk negaramu) - Ask not what your country can do for you - ask what you can do for your country."_
 
 Berkontribusi ke open source bisa terjadi pada semua tingkatan, pada semua bagian proyek. Anda tidak perlu berpikir berlebihan tentang apa kontribusi pertama Anda atau bagaimana bentuknya.
 
